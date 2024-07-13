@@ -1,0 +1,21 @@
+{
+    "name": "osw3/php-url-manager",
+    "description": "Provides an URL tools",
+    "homepage": "https://osw3.net",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+		{
+			"name": "Project Contributors",
+			"homepage": "https://github.com/osw3/php-url-manager/graphs/contributors"
+		}
+    ],
+    "autoload": {
+        "psr-4": {
+            "OSW3\\UrlManager\\": "src/"
+        }
+    },
+    "require": {}
+}
