@@ -17,5 +17,8 @@
             "OSW3\\UrlManager\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "replace": {
+        "original/library":"*"
+    }
 }
